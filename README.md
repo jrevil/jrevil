@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jrevil
 - 👀 I’m interested in / SQL, HTML, Swift
-- 🌱 I’m currently learning / Python
+- 🌱 I’m currently learning / Python, Android Studio
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me / email: revilj@wit.edu or phone: 774-826-5868
 
